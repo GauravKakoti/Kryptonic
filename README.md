@@ -1,2 +1,2 @@
 # Krypt - Web 3.0 Blockchain Application
-kryptonic.netlify.app
+# kryptonic.netlify.app
